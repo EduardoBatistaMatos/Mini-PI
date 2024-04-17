@@ -36,7 +36,10 @@ No rodapé eu coloquei para que site foi criado, quem desenvolveu o site no caso
 
 ESTRUTURA
 Para de desenvolver o cabeçalho, inserir imagens, inserir links, montar o corpo do projeto e também o rodapé foi utilizado o chamado HTML.
+
 Já para se desenvolver as cores da página, fontes dos textos, tarjas dos títulos e todo o estilo da página foi usado o chamado  CSS.
+
 Segue abaixo o link do site hospedado para visualização.
+
 LINK DO SITE: eduardobatistamatos.github.io/Mini-PI/
 
