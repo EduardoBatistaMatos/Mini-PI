@@ -1,4 +1,4 @@
-# MINI PI
+# MINI-PI
 Nesse repositório contém um projeto desenvolvido em HTML e CSS e visa mostrar um pouco sobre a linguagem de programação Python que é tão utilizada nos dias atuais.
 
 ## Pré-visualização
