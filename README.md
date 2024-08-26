@@ -7,7 +7,7 @@ No início do site temos um cabeçalho que já mostra a filosofia da linguagem e
 
 Logo depois já temos um breve resumo da história.
 
-![Captura de tela 2024-04-16 205257](https://github.com/EduardoBatistaMatos/Mini-PI/assets/162808278/12230d26-5c1c-49eb-891e-898767f43d31)7
+![Captura de tela 2024-04-16 205257](https://github.com/EduardoBatistaMatos/Mini-PI/assets/162808278/12230d26-5c1c-49eb-891e-898767f43d31)
 
 Após entendermos um pouco melhor como surgiu o Python vamos a primeira versão dele.
 
